@@ -1,5 +1,3 @@
-Feedback
-========
 # Feedback for Ashwani Kumar!
 
 Have any feedback for me? [File an issue on this Repo](https://github.com/TheAshwanik/Feedback/issues/new) and I will get back to
